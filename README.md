@@ -1,7 +1,7 @@
 
-* 🔭 I’m currently working with Python, C and JavaScript
+* 🔭 I’m currently working with Python, Java, and JavaScript
 * 🌱 I’m currently learning React
-* 👯 I’m looking to collaborate on Odoo, and some of Operating Systems projects
+* 👯 I’m looking to collaborate on Django, and some of the Operating Systems projects
 * 🤔 I’m looking for help to leave an enterprise
 * 💬 Ask me about web development and Algorithms
 * 📫 How to reach me: PFB
